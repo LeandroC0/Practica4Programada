@@ -10,3 +10,9 @@ C:\Users\User\Documents\GitHub\Practica4Programada\Practica4\Practica4.Domain\ob
 C:\Users\User\Documents\GitHub\Practica4Programada\Practica4\Practica4.Domain\obj\Debug\Practica4.Domain.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\GitHub\Practica4Programada\Practica4\Practica4.Domain\obj\Debug\Practica4.Domain.dll
 C:\Users\User\Documents\GitHub\Practica4Programada\Practica4\Practica4.Domain\obj\Debug\Practica4.Domain.pdb
+C:\Users\Rafael\source\repos\Practica4Programada\Practica4\Practica4.Domain\bin\Debug\Practica4.Domain.dll
+C:\Users\Rafael\source\repos\Practica4Programada\Practica4\Practica4.Domain\bin\Debug\Practica4.Domain.pdb
+C:\Users\Rafael\source\repos\Practica4Programada\Practica4\Practica4.Domain\obj\Debug\Practica4.Domain.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\Practica4Programada\Practica4\Practica4.Domain\obj\Debug\Practica4.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\Practica4Programada\Practica4\Practica4.Domain\obj\Debug\Practica4.Domain.dll
+C:\Users\Rafael\source\repos\Practica4Programada\Practica4\Practica4.Domain\obj\Debug\Practica4.Domain.pdb

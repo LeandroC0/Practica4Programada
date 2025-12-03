@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Practica4.Aplicacion.Adivinanza
+{
+    public class AdivinanzaDto
+    {
+        public int Id { get; set; }
+        public string Respuesta { get; set; }
+    }
+}

@@ -44,6 +44,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="adivinanza\AdivinanzaDto.cs" />
+    <Compile Include="adivinanza\AdivinanzaService.cs" />
+    <Compile Include="adivinanza\IAdivinanzaService.cs" />
     <Compile Include="Dato\DatoDto.cs" />
     <Compile Include="Dato\DatoService.cs" />
     <Compile Include="Dato\IDatoService.cs" />
