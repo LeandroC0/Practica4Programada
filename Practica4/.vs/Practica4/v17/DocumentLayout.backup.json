@@ -1,7 +1,60 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Github\\Practica4Programada\\Practica4\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F26D5B2A-073D-4137-A102-7AE1F4E8FF67}|Practica4.Web\\Practica4.Web.csproj|c:\\users\\user\\documents\\github\\practica4programada\\practica4\\practica4.web\\views\\datos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F26D5B2A-073D-4137-A102-7AE1F4E8FF67}|Practica4.Web\\Practica4.Web.csproj|solutionrelative:practica4.web\\views\\datos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26D5B2A-073D-4137-A102-7AE1F4E8FF67}|Practica4.Web\\Practica4.Web.csproj|c:\\users\\user\\documents\\github\\practica4programada\\practica4\\practica4.web\\controllers\\datoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26D5B2A-073D-4137-A102-7AE1F4E8FF67}|Practica4.Web\\Practica4.Web.csproj|solutionrelative:practica4.web\\controllers\\datoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD3BD64-C928-4C35-8DF8-1E6C5C9F9BD6}|Practica4.API\\Practica4.API.csproj|c:\\users\\user\\documents\\github\\practica4programada\\practica4\\practica4.api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD3BD64-C928-4C35-8DF8-1E6C5C9F9BD6}|Practica4.API\\Practica4.API.csproj|solutionrelative:practica4.api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD3BD64-C928-4C35-8DF8-1E6C5C9F9BD6}|Practica4.API\\Practica4.API.csproj|c:\\users\\user\\documents\\github\\practica4programada\\practica4\\practica4.api\\controllers\\datoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD3BD64-C928-4C35-8DF8-1E6C5C9F9BD6}|Practica4.API\\Practica4.API.csproj|solutionrelative:practica4.api\\controllers\\datoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD3BD64-C928-4C35-8DF8-1E6C5C9F9BD6}|Practica4.API\\Practica4.API.csproj|c:\\users\\user\\documents\\github\\practica4programada\\practica4\\practica4.api\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD3BD64-C928-4C35-8DF8-1E6C5C9F9BD6}|Practica4.API\\Practica4.API.csproj|solutionrelative:practica4.api\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557F7AB0-CDCE-4E5B-A2A4-2FD19FE832E1}|Practica4.Aplicacion\\Practica4.Aplicacion.csproj|c:\\users\\user\\documents\\github\\practica4programada\\practica4\\practica4.aplicacion\\dato\\datoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557F7AB0-CDCE-4E5B-A2A4-2FD19FE832E1}|Practica4.Aplicacion\\Practica4.Aplicacion.csproj|solutionrelative:practica4.aplicacion\\dato\\datoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26D5B2A-073D-4137-A102-7AE1F4E8FF67}|Practica4.Web\\Practica4.Web.csproj|c:\\users\\user\\documents\\github\\practica4programada\\practica4\\practica4.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F26D5B2A-073D-4137-A102-7AE1F4E8FF67}|Practica4.Web\\Practica4.Web.csproj|solutionrelative:practica4.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28AE77-E866-46D9-AAA8-24640F2BA349}|Practica4.Domain\\Practica4.Domain.csproj|c:\\users\\user\\documents\\github\\practica4programada\\practica4\\practica4.domain\\entities\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D28AE77-E866-46D9-AAA8-24640F2BA349}|Practica4.Domain\\Practica4.Domain.csproj|solutionrelative:practica4.domain\\entities\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D07567-5126-458D-A604-184234950A8E}|Practica4.Infraestructura\\Practica4.Infraestructura.csproj|c:\\users\\user\\documents\\github\\practica4programada\\practica4\\practica4.infraestructura\\repositories\\datorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D07567-5126-458D-A604-184234950A8E}|Practica4.Infraestructura\\Practica4.Infraestructura.csproj|solutionrelative:practica4.infraestructura\\repositories\\datorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557F7AB0-CDCE-4E5B-A2A4-2FD19FE832E1}|Practica4.Aplicacion\\Practica4.Aplicacion.csproj|c:\\users\\user\\documents\\github\\practica4programada\\practica4\\practica4.aplicacion\\dato\\datodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557F7AB0-CDCE-4E5B-A2A4-2FD19FE832E1}|Practica4.Aplicacion\\Practica4.Aplicacion.csproj|solutionrelative:practica4.aplicacion\\dato\\datodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D07567-5126-458D-A604-184234950A8E}|Practica4.Infraestructura\\Practica4.Infraestructura.csproj|c:\\users\\user\\documents\\github\\practica4programada\\practica4\\practica4.infraestructura\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D07567-5126-458D-A604-184234950A8E}|Practica4.Infraestructura\\Practica4.Infraestructura.csproj|solutionrelative:practica4.infraestructura\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28AE77-E866-46D9-AAA8-24640F2BA349}|Practica4.Domain\\Practica4.Domain.csproj|c:\\users\\user\\documents\\github\\practica4programada\\practica4\\practica4.domain\\repositories\\idatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D28AE77-E866-46D9-AAA8-24640F2BA349}|Practica4.Domain\\Practica4.Domain.csproj|solutionrelative:practica4.domain\\repositories\\idatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557F7AB0-CDCE-4E5B-A2A4-2FD19FE832E1}|Practica4.Aplicacion\\Practica4.Aplicacion.csproj|c:\\users\\user\\documents\\github\\practica4programada\\practica4\\practica4.aplicacion\\dato\\idatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557F7AB0-CDCE-4E5B-A2A4-2FD19FE832E1}|Practica4.Aplicacion\\Practica4.Aplicacion.csproj|solutionrelative:practica4.aplicacion\\dato\\idatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 374,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 56,
           "Children": [
             {
               "$type": "Bookmark",
@@ -230,6 +283,175 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Practica4.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Practica4.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T05:18:08.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Web\\Views\\Datos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica4.Web\\Views\\Datos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Web\\Views\\Datos\\Index.cshtml",
+              "RelativeToolTip": "Practica4.Web\\Views\\Datos\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T05:17:35.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Web\\Controllers\\DatosController.cs",
+              "RelativeDocumentMoniker": "Practica4.Web\\Controllers\\DatosController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Web\\Controllers\\DatosController.cs",
+              "RelativeToolTip": "Practica4.Web\\Controllers\\DatosController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T05:17:02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.API\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Practica4.API\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.API\\Global.asax.cs",
+              "RelativeToolTip": "Practica4.API\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T05:16:29.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.API\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "Practica4.API\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.API\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "Practica4.API\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T05:16:08.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.API\\Controllers\\DatosController.cs",
+              "RelativeDocumentMoniker": "Practica4.API\\Controllers\\DatosController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.API\\Controllers\\DatosController.cs",
+              "RelativeToolTip": "Practica4.API\\Controllers\\DatosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T05:10:36.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Infraestructura\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Practica4.Infraestructura\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Infraestructura\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Practica4.Infraestructura\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T04:50:27.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Domain\\Repositories\\IDatoRepository.cs",
+              "RelativeDocumentMoniker": "Practica4.Domain\\Repositories\\IDatoRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Domain\\Repositories\\IDatoRepository.cs",
+              "RelativeToolTip": "Practica4.Domain\\Repositories\\IDatoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T04:48:22.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDatoService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Aplicacion\\Dato\\IDatoService.cs",
+              "RelativeDocumentMoniker": "Practica4.Aplicacion\\Dato\\IDatoService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Aplicacion\\Dato\\IDatoService.cs",
+              "RelativeToolTip": "Practica4.Aplicacion\\Dato\\IDatoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T04:46:23.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatoService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Aplicacion\\Dato\\DatoService.cs",
+              "RelativeDocumentMoniker": "Practica4.Aplicacion\\Dato\\DatoService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Aplicacion\\Dato\\DatoService.cs",
+              "RelativeToolTip": "Practica4.Aplicacion\\Dato\\DatoService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA5wD4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T04:46:12.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatoDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Aplicacion\\Dato\\DatoDto.cs",
+              "RelativeDocumentMoniker": "Practica4.Aplicacion\\Dato\\DatoDto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Aplicacion\\Dato\\DatoDto.cs",
+              "RelativeToolTip": "Practica4.Aplicacion\\Dato\\DatoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T04:45:56.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Infraestructura\\Repositories\\DatoRepository.cs",
+              "RelativeDocumentMoniker": "Practica4.Infraestructura\\Repositories\\DatoRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Infraestructura\\Repositories\\DatoRepository.cs",
+              "RelativeToolTip": "Practica4.Infraestructura\\Repositories\\DatoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T04:45:01.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Domain\\Entities\\Datos.cs",
+              "RelativeDocumentMoniker": "Practica4.Domain\\Entities\\Datos.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Practica4Programada\\Practica4\\Practica4.Domain\\Entities\\Datos.cs",
+              "RelativeToolTip": "Practica4.Domain\\Entities\\Datos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T04:43:32.546Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Datos Curiosos";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Dato Curioso</h2>
+
+    <div class="text-center mt-4">
+        <button id="btnDato" class="btn btn-primary">Obtener Dato</button>
+    </div>
+
+    <div class="card mt-4 p-3">
+        <h4 id="textoDato" class="text-center text-info">
+            Aquí aparecerá un dato curioso...
+        </h4>
+
+        <p id="fechaDato" class="text-center text-muted mt-3"></p>
+    </div>
+</div>
+
+
+@section scripts{
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <script>
+        $("#btnDato").click(function () {
+
+            $.ajax({
+                url: "https://localhost:44318/api/datos",
+                method: "GET",
+                success: function (response) {
+                    $("#textoDato").text(response.Dato);
+                },
+                error: function (xhr) {
+                    alert("Error cargando dato curioso");
+                }
+            });
+        });
+    </script>
+}

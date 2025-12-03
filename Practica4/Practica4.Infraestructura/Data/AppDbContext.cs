@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Practica4.Domain.Entities;
+using System.Data.Entity;
 
-namespace Practica4.Infraestructura.Data
+namespace MvcTienda.Infraestructura.Data
 {
-    internal class AppDbContext
+    public class AppDbContext : DbContext
     {
+        public AppDbContext()
+            : base("MVCPractica4")
+        {
+        }
+
+        public DbSet<Datos> Datos { get; set; }
     }
 }

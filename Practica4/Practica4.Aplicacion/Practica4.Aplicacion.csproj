@@ -44,6 +44,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dato\DatoDto.cs" />
+    <Compile Include="Dato\DatoService.cs" />
+    <Compile Include="Dato\IDatoService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

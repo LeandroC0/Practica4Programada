@@ -54,6 +54,7 @@
     <Compile Include="Data\AppDbContext.cs" />
     <Compile Include="Data\AppDbInitializer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\DatoRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Practica4.Domain\Practica4.Domain.csproj">
@@ -65,9 +66,7 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Repositories\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
