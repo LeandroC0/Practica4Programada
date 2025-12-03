@@ -47,6 +47,9 @@
     <Compile Include="adivinanza\AdivinanzaDto.cs" />
     <Compile Include="adivinanza\AdivinanzaService.cs" />
     <Compile Include="adivinanza\IAdivinanzaService.cs" />
+    <Compile Include="Chiste\ChisteDTO.cs" />
+    <Compile Include="Chiste\ChisteService.cs" />
+    <Compile Include="Chiste\IChisteService.cs" />
     <Compile Include="Dato\DatoDto.cs" />
     <Compile Include="Dato\DatoService.cs" />
     <Compile Include="Dato\IDatoService.cs" />

@@ -42,9 +42,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entities\Adivinanza.cs" />
+    <Compile Include="Entities\Chistes.cs" />
     <Compile Include="Entities\Datos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\IAdivinanzaRepository.cs" />
+    <Compile Include="Repositories\IChisteRepository.cs" />
     <Compile Include="Repositories\IDatoRepository.cs" />
   </ItemGroup>
   <ItemGroup />

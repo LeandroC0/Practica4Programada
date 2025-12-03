@@ -55,6 +55,7 @@
     <Compile Include="Data\AppDbInitializer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\AdivinanzaRepository.cs" />
+    <Compile Include="Repositories\ChisteRepository.cs" />
     <Compile Include="Repositories\DatoRepository.cs" />
   </ItemGroup>
   <ItemGroup>

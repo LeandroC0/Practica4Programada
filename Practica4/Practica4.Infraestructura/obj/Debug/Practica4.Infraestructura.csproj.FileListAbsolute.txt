@@ -40,3 +40,17 @@ C:\Users\Rafael\source\repos\Practica4Programada\Practica4\Practica4.Infraestruc
 C:\Users\Rafael\source\repos\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Practica.40C29CAA.Up2Date
 C:\Users\Rafael\source\repos\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Practica4.Infraestructura.dll
 C:\Users\Rafael\source\repos\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Practica4.Infraestructura.pdb
+C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\Practica4.Infraestructura.dll.config
+C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\Practica4.Infraestructura.dll
+C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\Practica4.Infraestructura.pdb
+C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\EntityFramework.dll
+C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\Practica4.Domain.dll
+C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\Practica4.Domain.pdb
+C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\EntityFramework.xml
+C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Practica4.Infraestructura.csproj.AssemblyReference.cache
+C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Practica4.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Practica.40C29CAA.Up2Date
+C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Practica4.Infraestructura.dll
+C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Practica4.Infraestructura.pdb

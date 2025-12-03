@@ -11,5 +11,6 @@ namespace MvcTienda.Infraestructura.Data
         }
 
         public DbSet<Datos> Datos { get; set; }
+        public DbSet<Chistes> Chistes { get; set; }
     }
 }

@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Chistes";
+}
+
+<div class="container mt-5">
+    <h2>Chistes</h2>
+
+    <button id="btnChiste" class="btn btn-primary">Obtener Chiste</button>
+
+    <div class="mt-3">
+        <p id="textoChiste">Presiona el botón para ver un chiste</p>
+    </div>
+</div>
+
+@section scripts{
+    <script>
+        $("#btnChiste").click(function () {
+            $.ajax({
+                url: "/api/chistes",
+                method: "GET",
+                success: function (response) {
+                    $("#textoChiste").text(response.Chiste);
+                },
+                error: function () {
+                    alert("Error cargando chiste");
+                }
+            });
+        });
+    </script>
+}
