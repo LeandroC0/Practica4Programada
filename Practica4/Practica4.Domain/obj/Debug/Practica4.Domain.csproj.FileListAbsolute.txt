@@ -1,0 +1,6 @@
+C:\Github\Practica4\Practica4.Domain\bin\Debug\Practica4.Domain.dll
+C:\Github\Practica4\Practica4.Domain\bin\Debug\Practica4.Domain.pdb
+C:\Github\Practica4\Practica4.Domain\obj\Debug\Practica4.Domain.csproj.AssemblyReference.cache
+C:\Github\Practica4\Practica4.Domain\obj\Debug\Practica4.Domain.csproj.CoreCompileInputs.cache
+C:\Github\Practica4\Practica4.Domain\obj\Debug\Practica4.Domain.dll
+C:\Github\Practica4\Practica4.Domain\obj\Debug\Practica4.Domain.pdb
