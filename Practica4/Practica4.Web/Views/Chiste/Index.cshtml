@@ -13,18 +13,22 @@
 </div>
 
 @section scripts{
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
     <script>
         $("#btnChiste").click(function () {
+
             $.ajax({
-                url: "/api/chistes",
+                url: "https://localhost:44318/api/chistes",
                 method: "GET",
                 success: function (response) {
-                    $("#textoChiste").text(response.Chiste);
+                    $("#textoChiste").text(response.Chiste); 
                 },
                 error: function () {
                     alert("Error cargando chiste");
                 }
             });
+
         });
     </script>
 }
