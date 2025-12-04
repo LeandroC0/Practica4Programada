@@ -5,5 +5,6 @@ namespace Practica4.Domain.Repositories
     public interface IAdivinanzaRepository
     {
         Adivinanza GetById(int id);
+        Adivinanza GetRandom();
     }
 }

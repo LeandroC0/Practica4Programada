@@ -48,4 +48,22 @@ public class AdivinanzaController : ApiController
             respuestaCorrecta = adivinanza.Respuesta
         });
     }
+
+    [HttpGet]
+    [Route("")]
+    public IHttpActionResult ObtenerAdivinanza()
+    {
+        if (_adivinanzas.Count == 0)
+            return NotFound();
+
+        var random = new System.Random();
+        var index = random.Next(0, _adivinanzas.Count);
+        var adivinanza = _adivinanzas[index];
+
+        return Ok(new
+        {
+            id = adivinanza.Id,
+            pregunta = adivinanza.Pregunta
+        });
+    }
 }

@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "Adivinanza";
+    var adivinanza = ViewBag.Adivinanza;
+}
+
+<h2>Adivinanza</h2>
+
+@if (TempData["Mensaje"] != null)
+{
+    <p style="color: green; font-weight: bold;">@TempData["Mensaje"]</p>
+}
+
+@if (TempData["Error"] != null)
+{
+    <p style="color: red;">@TempData["Error"]</p>
+}
+
+@if (adivinanza != null)
+{
+    <div style="border: 1px solid #ccc; padding: 20px; margin: 20px 0;">
+        <h3>@adivinanza.Pregunta</h3>
+
+        <form method="post" action="@Url.Action("Verificar")">
+            <input type="hidden" name="id" value="@adivinanza.Id" />
+
+            <div style="margin: 10px 0;">
+                <label>Tu respuesta:</label><br />
+                <input type="text" name="respuesta" required style="width: 300px; padding: 5px;" />
+            </div>
+
+            <button type="submit" style="padding: 8px 15px; background: blue; color: white; border: none;">
+                Verificar
+            </button>
+        </form>
+    </div>
+}
+
+<a href="@Url.Action("Index")">Otra adivinanza</a>

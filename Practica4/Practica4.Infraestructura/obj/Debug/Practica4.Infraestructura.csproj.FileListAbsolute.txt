@@ -54,3 +54,17 @@ C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Prac
 C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Practica.40C29CAA.Up2Date
 C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Practica4.Infraestructura.dll
 C:\Github\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Practica4.Infraestructura.pdb
+C:\Users\marjo\OneDrive\Documentos\GitHub\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\Practica4.Infraestructura.dll.config
+C:\Users\marjo\OneDrive\Documentos\GitHub\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\Practica4.Infraestructura.dll
+C:\Users\marjo\OneDrive\Documentos\GitHub\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\Practica4.Infraestructura.pdb
+C:\Users\marjo\OneDrive\Documentos\GitHub\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\EntityFramework.dll
+C:\Users\marjo\OneDrive\Documentos\GitHub\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marjo\OneDrive\Documentos\GitHub\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\Practica4.Domain.dll
+C:\Users\marjo\OneDrive\Documentos\GitHub\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\Practica4.Domain.pdb
+C:\Users\marjo\OneDrive\Documentos\GitHub\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\EntityFramework.xml
+C:\Users\marjo\OneDrive\Documentos\GitHub\Practica4Programada\Practica4\Practica4.Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marjo\OneDrive\Documentos\GitHub\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Practica4.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\marjo\OneDrive\Documentos\GitHub\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Practica4.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\marjo\OneDrive\Documentos\GitHub\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Practica.40C29CAA.Up2Date
+C:\Users\marjo\OneDrive\Documentos\GitHub\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Practica4.Infraestructura.dll
+C:\Users\marjo\OneDrive\Documentos\GitHub\Practica4Programada\Practica4\Practica4.Infraestructura\obj\Debug\Practica4.Infraestructura.pdb
